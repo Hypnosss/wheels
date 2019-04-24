@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Hypnosss/wheels#readme",
   "dependencies": {
     "vue": "^2.6.10"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
